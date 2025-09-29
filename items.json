@@ -1,12 +1,26 @@
 {
   "Seeds": [
-    { "name": "Carrot Seed", "image": "../../images/Seeds/Carrot Seed.webp" }
+    { "name": "Cactus Seed", "image": "../../images/Seeds/Cactus Seed.webp" }
+    { "name": "Strawberry Seed", "image": "../../images/Seeds/Strawberry Seed.webp" }
+    { "name": "Pumpkin Seed", "image": "../../images/Seeds/Pumpkin Seed.webp" }
+    { "name": "Sunflower Seed", "image": "../../images/Seeds/Sunflower Seed.webp" }
+    { "name": "Dragon Fruit Seed", "image": "../../images/Seeds/Dragon Fruit Seed.webp" }
+    { "name": "Eggplant Seed", "image": "../../images/Seeds/Eggplant Seed.webp" }
+    { "name": "Watermelon Seed", "image": "../../images/Seeds/Watermelon Seed.webp" }
+    { "name": "Grape Seed", "image": "../../images/Seeds/Grape Seed.webp" }
+    { "name": "Cocotank Seed", "image": "../../images/Seeds/Cocotank Seed.webp" }
+    { "name": "Carnivorous Plant Seed", "image": "../../images/Seeds/Carnivorous Plant Seed.webp" }
+    { "name": "Mr Carrot Seed", "image": "../../images/Seeds/Mr Carrot Seed.webp" }
+    { "name": "Tomatrlo Seed", "image": "../../images/Seeds/Tomatrlo Seed.webp" }
+    { "name": "Shroombino Seed", "image": "../../images/Seeds/Shroombino Seed.webp" }
  
   ],
   "Gears": [
-    { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
-    { "name": "Trading Ticket", "image": "../../images/Gears/Trading Ticket.webp" },
-    { "name": "Trowel", "image": "../../images/Gears/Trowel.webp" }
+    { "name": "Watering Bucket", "image": "../../images/Gears/Watering Bucket.webp" },
+    { "name": "Forest Grenade", "image": "../../images/Gears/Forest Grenade.webp" },
+    { "name": "Banana Gun", "image": "../../images/Gears/Banana Gun.webp" }
+    { "name": "Frost Blower", "image": "../../images/Gears/Frost Blower.webp" }
+    { "name": "Carrot Launcher", "image": "../../images/Gears/Carrot Launcher.webp" }
 
   ],
   "message": "New MAcro!!"
