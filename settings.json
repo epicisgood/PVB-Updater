@@ -1,12 +1,12 @@
 {
   "Seeds": [
-    { "name": "Carrot Seed", "image": "../../images/Seeds/Carrot Seed.webp" },
+    { "name": "Carrot Seed", "image": "../../images/Seeds/Carrot Seed.webp" }
  
   ],
   "Gears": [
     { "name": "Watering Can", "image": "../../images/Gears/Watering Can.webp" },
     { "name": "Trading Ticket", "image": "../../images/Gears/Trading Ticket.webp" },
-    { "name": "Trowel", "image": "../../images/Gears/Trowel.webp" },
+    { "name": "Trowel", "image": "../../images/Gears/Trowel.webp" }
 
   ],
   "message": "New MAcro!!"
