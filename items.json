@@ -1,18 +1,18 @@
 {
   "Seeds": [
-    { "name": "Cactus Seed", "image": "../../images/Seeds/Cactus Seed.webp" },
-    { "name": "Strawberry Seed", "image": "../../images/Seeds/Strawberry Seed.webp" },
-    { "name": "Pumpkin Seed", "image": "../../images/Seeds/Pumpkin Seed.webp" },
-    { "name": "Sunflower Seed", "image": "../../images/Seeds/Sunflower Seed.webp" },
-    { "name": "Dragon Fruit Seed", "image": "../../images/Seeds/Dragon Fruit Seed.webp" },
-    { "name": "Eggplant Seed", "image": "../../images/Seeds/Eggplant Seed.webp" },
-    { "name": "Watermelon Seed", "image": "../../images/Seeds/Watermelon Seed.webp" },
-    { "name": "Grape Seed", "image": "../../images/Seeds/Grape Seed.webp" },
-    { "name": "Cocotank Seed", "image": "../../images/Seeds/Cocotank Seed.webp" },
-    { "name": "Carnivorous Plant Seed", "image": "../../images/Seeds/Carnivorous Plant Seed.webp" },
-    { "name": "Mr Carrot Seed", "image": "../../images/Seeds/Mr Carrot Seed.webp" },
-    { "name": "Tomatrio Seed", "image": "../../images/Seeds/Tomatrio Seed.webp" },
-    { "name": "Shroombino Seed", "image": "../../images/Seeds/Shroombino Seed.webp" }
+    { "name": "Cactus", "image": "../../images/Seeds/Cactus.webp" },
+    { "name": "Strawberry", "image": "../../images/Seeds/Strawberry.webp" },
+    { "name": "Pumpkin", "image": "../../images/Seeds/Pumpkin.webp" },
+    { "name": "Sunflower", "image": "../../images/Seeds/Sunflower.webp" },
+    { "name": "Dragon Fruit", "image": "../../images/Seeds/Dragon Fruit.webp" },
+    { "name": "Eggplant", "image": "../../images/Seeds/Eggplant.webp" },
+    { "name": "Watermelon", "image": "../../images/Seeds/Watermelon.webp" },
+    { "name": "Grape", "image": "../../images/Seeds/Grape.webp" },
+    { "name": "Cocotank", "image": "../../images/Seeds/Cocotank.webp" },
+    { "name": "Carnivorous Plant", "image": "../../images/Seeds/Carnivorous Plant.webp" },
+    { "name": "Mr Carrot", "image": "../../images/Seeds/Mr Carrot.webp" },
+    { "name": "Tomatrio", "image": "../../images/Seeds/Tomatrio.webp" },
+    { "name": "Shroombino", "image": "../../images/Seeds/Shroombino.webp" }
  
   ],
   "Gears": [
