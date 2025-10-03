@@ -16,7 +16,7 @@
  
   ],
   "Gears": [
-    { "name": "Watering Bucket", "image": "../../images/Gears/Watering Bucket.webp" },
+    { "name": "Water Bucket", "image": "../../images/Gears/Water Bucket.webp" },
     { "name": "Forest Grenade", "image": "../../images/Gears/Forest Grenade.webp" },
     { "name": "Banana Gun", "image": "../../images/Gears/Banana Gun.webp" },
     { "name": "Frost Blower", "image": "../../images/Gears/Frost Blower.webp" },
