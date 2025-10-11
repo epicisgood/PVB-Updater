@@ -13,7 +13,8 @@
     { "name": "Mr Carrot", "image": "../../images/Seeds/Mr Carrot.webp" },
     { "name": "Tomatrio", "image": "../../images/Seeds/Tomatrio.webp" },
     { "name": "Shroombino", "image": "../../images/Seeds/Shroombino.webp" },
-    { "name": "Mango", "image": "../../images/Seeds/Mango.webp" }
+    { "name": "Mango", "image": "../../images/Seeds/Mango.webp" },
+    { "name": "King Limone", "image": "../../images/Seeds/Mango.webp" }    
   ],
   "Gears": [
     { "name": "Water Bucket", "image": "../../images/Gears/Water Bucket.webp" },
