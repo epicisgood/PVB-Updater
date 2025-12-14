@@ -23,7 +23,8 @@
     { "name": "Frost Grenade", "image": "../../images/Gears/Frost Grenade.webp" },
     { "name": "Banana Gun", "image": "../../images/Gears/Banana Gun.webp" },
     { "name": "Frost Blower", "image": "../../images/Gears/Frost Blower.webp" },
-    { "name": "Carrot Launcher", "image": "../../images/Gears/Carrot Launcher.webp" }
+    { "name": "Carrot Launcher", "image": "../../images/Gears/Carrot Launcher.webp" },
+    { "name": "Battery Pack", "image": "../../images/Gears/Battery Pack webp" }   
 
   ],
   "message": "New Macro!!"
